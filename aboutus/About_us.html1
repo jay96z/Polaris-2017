@@ -1,0 +1,933 @@
+<!DOCTYPE html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>COMMITTEE_LIST</title>
+
+</head>
+<style>
+
+
+body {
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
+ line-height: 1.42em;
+ color:#A7A1AE;
+
+  background-color:#1F2739;
+}
+
+h1 {
+ font-size:2em; 
+ font-weight: 300;
+ line-height:1em;
+ text-align: center;
+ color: #4DC3FA;
+}
+
+
+.container td:first-child { color: #FB667A; }
+
+.container tr:hover {
+   background-color: #464A52;
+-webkit-box-shadow: 0 6px 6px -6px #0E1119;
+	   -moz-box-shadow: 0 6px 6px -6px #0E1119;
+	        box-shadow: 0 6px 6px -6px #0E1119;
+}
+
+.container td:hover {
+  background-color: #FFF842;
+  color: #403E10;
+  font-weight: bold;
+  
+  box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px 6px;
+  transform: translate3d(6px, -6px, 0);
+  
+  transition-delay: 0s;
+	  transition-duration: 0.4s;
+	  transition-property: all;
+  transition-timing-function: line;
+}
+
+@media (max-width: 800px) {
+.container td:nth-child(4),
+.container th:nth-child(4) { display: none; }
+}
+
+</style>
+
+<body>
+
+
+
+
+<table width="658" align="center"  class="container">
+  <thead>
+
+    <tr>
+     <th width="104"><h1>Post</h1></th>
+      <th width="115"><h1>Name</h1></th>
+      <th width="123"><h1>Contact</h1></th>
+    </tr>
+
+  </thead>
+
+
+  <tbody>
+
+    <tr>
+       <td>Student Convener</td>
+      <td>	Shubham Patil</td>
+      <td>	80878970908</td>
+    </tr>
+
+<tr>
+
+<td> Co-Conevener</td>
+<td>Raksha Mahajan</td>
+<td>9730710670</td>
+</tr>
+
+<tr>
+<td>Organizing Secretary</td>
+<td>Mohanish Jaiswal</td>
+<td>9021094368</td>
+</tr>
+
+<tr>
+<td >Joint Secretary</td>
+<td>Darshan Gupta<br><br>
+Mohit Chandak
+</td>
+<td>
+9421937558
+<br><br>8698378904
+</td>
+</tr>
+
+<tr>
+<td>Treasurer</td>
+<td>Jitendra Kumar Dewangan<br><br>
+Pooja Doye
+</td>
+<td>8446298115<br><br>
+9049770855</td>
+</tr>
+
+<tr>
+<td>Overall committee Co-ordinator</td>
+<td>Harshvardhan Rai</td>
+<td>7722033232</td>
+</tr>
+
+<tr>
+<td>Overall Event Co-ordinator</td>
+<td>Swapnil Dixit</td>
+<td>9561415184</td>
+</tr>
+
+<tr>
+<td>Overall Workshop Co-ordinator</td>
+<td>Shail Agrawal</td>
+<td>9420350695</td>
+</tr>
+</table>
+<br>
+<br><br>
+<h1>Souvenir</h1>
+
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th>
+      
+<tr>
+	<td>Head</td>
+      <td>Ishaan Tiwari<br><br>
+    Pranali Kulkarni
+    </td>
+<td>
+    9422888022<br><br>
+    8482944108
+    </td>
+</tr>
+
+<tr>
+    <td>Co-Head</td>
+    <td>
+   Kanchan Sambhe<br><br>
+    Asmita Kejriwal<br><br>
+    Pratik Madholkar
+   </td>
+    <td>
+   8446579511<br><br>
+   9404070300<br><br>
+   9765401135
+    </td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Dr. Gayathri Band</td>
+<td></td>
+</tr>
+</table>
+<br>
+<br><br>
+<h1>INR and Inaguration</h1>
+
+
+<table width="658" align="center"  class="container">
+ <thead>
+    <tr>
+     <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th>
+    </tr>
+</thead>
+<tr>
+    <td>Head </td>
+   
+    <td>Surbhi Shukla<br><br>Kulshree Gautam</td>
+<td>8605179596<br><br>
+ 8149026598</td>
+<tr>
+<td>Co-Head</td>
+<td>
+Seema Babhale
+<br><br>Nidhi Dandare
+</td>
+<td>8806707262<br><br>
+7385167667</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>
+Prof. Devishree Naidu<br><br>
+Prof. Prof. Priti Mangrulkar<br><br>
+Prof. Prof. Pritam Bhadade</td>
+</tr>
+<td></td>
+</table>					
+
+<br><br><br>
+	
+		<h1>Backdrop</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th>
+      											
+<tr>
+<td>Head</td>
+<td>Vimal Kumar Ahukla</td>
+<td>7387437273</td>
+</tr>
+
+<td>Co-Head</td>
+<td>
+Rahul Chauhan<br><br>Debonjana Nath
+</td>
+<td>8983729806<br><br>
+7798628662</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Ruchir Nandanwar<br><br>
+Prof. Udyan Patankar</td>
+</tr>
+</table>		
+
+<br><br><br>			
+
+		<h1>Hospitality</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th>
+      
+<tr><td>
+Head</td>
+<td>Shraddha Bawankule<br><br>
+Shreya Verma
+</td>
+<td>8698959221<br><br>
+8485057235</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Shravani Khaparkar<br><br>Arpita Mohata<br><br>Radha Deshmukh</td>
+<td>9975486392<br><br>
+7768852650<br><br>
+9096398794</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td><td>
+<br><br>Prof. Pradeep Selokar
+<br><br>Prof. Akanksha Deshpande</td>
+</tr>
+</table>					
+
+
+<br><br><br><br>
+
+		<h1>Prize distribution and Valedictory</h1>
+
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th>
+      
+<tr>
+<td>Head</td>
+<td>Geeta Belani</td>
+<td>8698739551</td>
+</tr>
+<tr>
+<td>Co-Head</td>
+<td>Jahnavi Wankhede<br><br>Vaibhavi Mehta</td>
+<td>8411021496<br><br>
+7769932572</td>
+</tr>
+<td>Teacher Incharge</td>
+<td>Dr. Shilpa Kulkarni
+<br><br>Prof. Vaishali Rajurkar
+<br><br>Prof. Divya Shrivastava
+<br><br>Prof. Pritam Bhadade</td>
+</tr>
+</table>					
+
+<br><br><br><br>
+	<h1>Resources</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 
+<tr>
+<td>Head</td>
+<td>Shubham Shivhare</td>
+<td>9764172622</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Pankaj Singh<br><br>Akhilesh Yadav<br><br>Pravin Chouragade<br><br>Nehal Tiwari
+</td>
+<td>7387878143<br><br>
+8446964634
+<br><br>8928641274
+<br><br>9021677887</td>
+</tr>
+<td>Teacher Incharge</td>
+<td>Prof. Anand Gharad</td>
+</tr>
+</table>		
+<br><br><br><br>
+	<h1>Publicity
+
+</h1>
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Shyam Rathi<br><br>Rashmi Dixit</td>
+<td>8087697921<br><br>
+9921731129</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Sanjay Naidu<br><br>Nikhil Chandrawanshi<br><br>Aliasgar Vali<br><br>
+Vaishnavi Pendke<br><br>Ayush Singh<br><br>Shubhanshu</td>
+<td>9011480425<br><br>
+9604059139<br><br>
+8983744693<br><br>
+7709716196<br><br>
+9860078511<br><br>
+7276884789</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Bhushan Bissa<br><br>
+Prof. Lokesh Heda</td>
+</tr>
+</table>		
+
+	<br><br><br><br>
+		<h1>Sponsorship</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Karthik Rathi</td>
+<td>9850696562</td>
+</tr>
+<tr>
+<td>Co-Head</td>
+<td>Nitasha Patil<br><br>Monika Belani</td>
+<td>9767622144<br><br>8421375869
+</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Dr. Amol Andhare</td>
+<td>Prof. Anish Goyal</td>
+</tr>
+</table>					
+	<br><br><br><br>
+	
+			<h1>Accomodation</h1>
+<table width="658" align="center"  class="container">>
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Priyesh Kumar Sinha</td>
+<td>7387685757</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Himanshu Vishwakarma</td>
+<td>8600101565</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td><td>
+Dr. M.V. Palandurkar<br><br>Dr. Amit Anurag</td>
+</tr>
+</table>					
+	
+	<br><br><br><br>
+
+		<h1>Travel</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Chetan Chide</td>
+<td>9595149082</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Sagar Digole</td>
+<td>8625905911</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Prasheel Thakare<br><br>Prof. Vikar Gupta</td>
+</tr>
+</table>					
+	
+		<br><br><br><br>		
+		<h1>Press and Photography</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Shubham Kakde</td>
+<td>9823314660</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Adarsh Bhargav<br><br>Shubham Choksey</td>
+<td>9960069639<br><br>
+7028450077</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. B.M. Hardas</td>
+</tr>
+</table>						
+
+		<br><br><br><br>				
+		<h1>Venue</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Bhupesh Vaidya</td>
+<td>8485856628</td>
+</tr>
+
+<tr>
+<td>Co-Head</td>
+<td>Tushar Pandagre<br><br>Mehul Upadhayay<br><br>Kostubh Agnihotri<br><br>
+Rishabh Lakhotiya<br><br>Karan Rajput
+</td>
+<td>9970441708<br><br>
+7058417187<br><br>
+7058417187<br><br>9923028788<br><br>9112115725</td>
+
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Chetan Waghmare</td>
+</tr>
+</table>	
+
+
+		<h1>Systems</h1>
+        
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Head</td>
+<td>Karansingh Bias<br><br>Jay Bawankar<br><br>Sanjeet Tiwari</td>
+<td>9527057517<br><br>8275867999<br><br>
+9049900076</td>
+</tr>
+<tr>
+<td>Co-Head</td>
+<td>Vinuthna Alla<br><br>Roshni John</td>
+<td>9552827790<br><br>
+8308877649</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Vishnu Vardhan Budati</td>
+</tr>
+</table>	
+
+<br><br><br><br>
+<h1>STAFF CORE COMMITTEE</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Dean SRC</td>
+<td>Prof. Sangita Deshmukh</td></tr>
+
+<tr>
+<td>Prof. Incharge Technical Club</td>
+<td>Rajeshree Raut</td>
+</tr>
+<tr>
+<td>Technovision Incharge</td>
+<td>Dr. Deepali Shelke</td>
+<td>9881713176</td>
+</tr>
+<tr>
+<td>Organising Secretary</td>
+<td>Dr. J.A. Shrawankar</td>
+<td>9503027410</td>
+</tr>
+<tr>
+<td>Overall Committee Management</td>
+<td>Prof. Reena Rahate</td
+></tr>
+<tr>
+<td>Treasurer</td>
+<td>Prof. Suresh Balpande</td>
+</tr>
+</table>
+
+<br><br><br><br>
+		<h1>Breadboard Maze</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Event Head</td>
+<td>Sumit Dandekar<br><br>Sonal Shegokar</td>
+<td>9970000104<br><br>
+8087853418</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Pranay Chandak</td>
+<td>9545312867</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof.Jitendra Zalke</td>
+</tr>
+</table>	
+<br><br><br><br>
+
+		<h1>Code-O-Mania</h1>
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr>
+<td>Event Co-Head</td>
+<td>Vaishnavi Tatewar<br><br>Purva Bamb</td>
+<td>7350771500<br><br>9579970001</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Nishant Ansari</td>
+</tr>
+</table>	
+
+<br><br><br><br>
+		<h1>Craze for CAD</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>
+Event Head</td>
+<td>Kunal Chadhuri</td>
+<td>9326053244</td>
+</tr>
+<tr>
+<td>Event Co-Head</td>
+<td>Pravin Chauragade</td>
+<td>8928641274</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Mukesh Balwani</td>
+</tr>
+</table>	
+
+
+<br><br><br><br>
+		<h1>Impulse</h1>
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Shubham Ojha<br><br>Anuj Raool</td>
+<td>9561444306<br><br>8888776224</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Nikhil Chandrawavshi</td>
+<td>9604059139</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Bhushan C. Bissa</td>
+</tr>
+</table>	
+
+
+<br><br><br><br>
+
+		<h1>Junkyard Warriors</h1>
+    
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Suraj Nimbalkar</td>
+<td>9011678945</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Shubhanshu Singh</td>
+<td>8668401894</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</tr>
+<td>Prof. Manisha Gaikwad</td>
+</tr>
+</table>
+	
+<br><br><br><br>
+		<h1>MIND-the-LINE</h1>
+    
+
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Pratik Baheti</td>
+<td>7276622135</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Akash Kedia<br><br>Rishikesh Asatkar</td>
+<td>8408093220<br><br>7058073021</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Sandeep Pande<br><br>
+Prof. Jitendra Zalke</td>
+</tr>
+</table>	
+<br><br><br><br>
+	<h1>Paperfest</h1>
+ 
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Manas Agrawal</td>
+<td>9011511969</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Siddhesh </td>
+<td>9424144153</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof.Chitra Upadhaya<br><br>
+Prof. Chetana Thaokar</td>
+</tr>
+</table>
+<br><br><br><br>
+		<h1>Robowars</h1>
+
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Ankit Gadpayle</td>
+<td>8149347261</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Sanjeevan Pathak</td>
+<td>8149285692</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Anish Goel</td>
+</tr>
+</table>
+		<br><br><br><br>			
+		<h1>TECH-QUIZ		</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+
+<td>Nidhi Puttewar<br><br>Nikhil Phalke</td>
+<td>9975135553<br><br>
+7276734153</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Komal</td>
+<td>9763766567</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Shubham Anjankar</td>
+</tr>
+</table>
+						<br><br><br><br>	
+		<h1>TECH-QUEST 	</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Priyesh Kumar Sinha</td>
+<td>7387685757</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Madhura </td>
+<td>9673995752</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Pooja Agrawal</td>
+<td>Prof. Deepak Khrushlani</td>
+</tr>
+</table	>
+
+						<br><br><br><br>	
+		<h1>AQUABOT		</h1>
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Vaibhavi Mehta<br><br>Arpan Agrawal</td>
+<td>7769932572<br><br>9049769262</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. S.V. Admane<br><br>
+Prof. Deepak Khrushlani</td>
+</tr>
+</table	>
+	
+			<br><br><br><br>
+		<h1>Internet of Things	</h1>
+    
+  <table  class="container" align="center">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Mohit Partani</td>
+<td>9405919281</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Aishwarya Shrivastava</td>
+<td>7775094699</td>
+</tr>
+<td>Teacher Incharge</td>
+<td>Prof. Poorvi K. Joshi</td>
+</tr>
+</table>
+
+			<br><br><br><br>
+		<h1>MODERN SURVEYING TECHNIQUES	</h1>
+    
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Kunal Choudhary</td>
+<td>9326053244</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Amar Mishra</td>
+<td>8888802193</td>
+</tr>
+</table>
+
+			<br><br><br><br>
+		<h1>Self-balancing Bot	</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Karansingh Bais<br><br>Surbhi Shukla</td>
+<td>9527057517<br><br>8149026598</td>
+</tr>
+<tr>
+<td>Event Co-Head</td>
+<td>Yash Tawarawala</td>
+<td>9404040442</td>
+</tr>
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. Puja Agrawal</td>
+</tr>
+</table>
+
+			<br><br><br><br>
+		<h1>	Techno-Musica	</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Omkar Kekre<br><br>7757805303</td>
+<td>Suchdeep Singh Juneja<br><br>8698620861</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Likhit Agrawal</td>
+<td>9130522794</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Prof. P.U. Joshi<br><br>
+Prof. G.A. Morankar</td>
+</tr>
+</table><br><br><br><br>
+		<h1>	Additive Manufacturing	</h1>
+<table width="658" align="center"  class="container">
+	 <th><h1>Committee</h1></th>
+      <th><h1>Name</h1></th>
+      <th><h1>Contact</h1></th> 							
+									
+<tr><td>Event Head</td>
+<td>Shubham Oza</td>
+<td>9561444306</td>
+</tr>
+
+<tr>
+<td>Event Co-Head</td>
+<td>Mayank Soni</td>
+<td>8055842719</td>
+</tr>
+
+<tr>
+<td>Teacher Incharge</td>
+<td>Dr. Vishal V. Shukla</td>
+<td>Prof. Mohan G. Trivedi</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+
+
+</body>
+</html>
