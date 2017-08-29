@@ -1,0 +1,34 @@
+			@font-face {
+				font-family: 'px-regular';
+				font-style: normal;
+				src: url('161210055848Px-Regular.eot');
+				src: local('px-regular'), url('161210055848Px-Regular.eot') format('embedded-opentype'), url('161210055848Px-Regular.woff') format('woff');
+			}
+            
+            .px-regular{font-family: 'px-regular' !important;}
+            
+					@font-face {
+				font-family: 'px-light';
+				font-style: normal;
+				src: url('161210060208Px-Light.eot');
+				src: local('px-light'), url('161210060208Px-Light.eot') format('embedded-opentype'), url('161210060208Px-Light.woff') format('woff');
+			}
+            
+            .px-light{font-family: 'px-light' !important;}
+            
+					@font-face {
+				font-family: 'px-bold';
+				font-style: normal;
+				src: url('170108121551px-bold.eot');
+				src: local('px-bold'), url('170108121551px-bold.eot') format('embedded-opentype'), url('170108121551px-bold.woff') format('woff');
+			}
+            
+            .px-bold{font-family: 'px-bold' !important;}
+            
+						h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'px-light' !important;
+				}
+						h1{
+					font-family: 'px-bold' !important;
+				}
+		
